@@ -1,7 +1,11 @@
 # dabeeomaps_npm_install_sample
-- dabeeomaps library르 npm install로 사용하는 샘플  
+- dabeeomaps library npm install 
 - with webpack
 
-# get started
+## Reference & Developers’ link
+- 가이드 링크 :https://api-sample.dabeeomaps.com/
+- Reference : http://api-doc.dabeeomaps.com/
+
+## get started
 npm install     
 npm run start
